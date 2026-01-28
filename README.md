@@ -1,6 +1,6 @@
 # Hi, I'm Bradley Onyango 👋
 
-**Cybersecurity Enthusiast | Systems & Azure Administrator | Security+ Certified | Cloud & Identity Security**
+**Cybersecurity Enthusiast | Systems Administrator | Security+ Certified | Cloud & Identity Security**
 
 
 Welcome to my GitHub profile 👋  
